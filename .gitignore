@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# ReCaptcha Solver specific
+*.mp3
+models/
+driver/__pycache__/
+
+# IDE
+.vscode/
+.idea/
